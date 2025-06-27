@@ -9,6 +9,10 @@
 
 > **Um site tributo para Cristina Scabbia**, vocalista da banda **Lacuna Coil**. Este site destaca sua carreira, música e inclui uma galeria de imagens visualmente atraente com funcionalidade de tela cheia! 🎶🔥
 
+## 📸 Captura de Tela
+
+![cristina](https://github.com/user-attachments/assets/4ed08ea0-e050-45c4-b118-dfd9a36cfb72)
+
 ## 🖼️ Funcionalidades
 
 - **Design responsivo**: Funciona perfeitamente em todos os dispositivos (mobile, tablet, desktop) 📱💻
